@@ -1,0 +1,160 @@
+ How to Conduct a Crypto / VASP Compliance Audit
+ Audit Planning & Preparation:-
+
+Define Scope → Identify which functions will be covered (Governance, AML Policy, KYC/CDD, Monitoring, Sanctions, IT Security, etc.).
+
+Regulatory Mapping → Cross-reference BSA, FinCEN, FATF, OFAC, State Money Transmitter Laws, BitLicense, and GDPR/CCPA.
+
+Form Audit Team → Ensure independence; consider external auditors if required.
+
+Send Document Request List → HR records, AML policies, KYC files, transaction logs, training materials, SAR/CTR filings, sanctions logs, blockchain analytics screenshots, etc. (D1–D10 lists from manual).
+
+Governance & Oversight:-
+
+Verify AMLCO/MLRO is formally appointed and independent.
+
+Confirm clear reporting line to senior management/board.
+
+Review board meeting minutes for AML discussions.
+
+Check if a compliance committee exists.
+
+Evaluate job descriptions and responsibility matrix.
+
+AML/CFT Policies & Procedures:-
+
+Confirm policies are board-approved, updated annually, and tailored to crypto-specific risks.
+
+Ensure STR/CTR filing SOPs exist.
+
+Validate FATF Recommendation 15 mapping.
+
+Check accessibility of policies to relevant staff.
+
+Customer Due Diligence (CDD/KYC/EDD) :-
+
+Verify onboarding requirements (full name, DoB, address, ID).
+
+Check IDV methods (photo ID, selfie, liveness).
+
+Review risk-based scoring models and EDD triggers.
+
+Confirm Source of Funds/Source of Wealth checks.
+
+Validate UBO checks for corporates.
+
+Ensure PEP, sanctions, and adverse media screening.
+
+Transaction Monitoring & STR/CTR Reporting:-
+
+Confirm automated monitoring system is in place.
+
+Review red flag detection rules (structuring, mixers, darknet).
+
+Assess alert handling, escalation, and SAR/CTR filing timelines.
+
+Verify false positive analysis is conducted.
+
+Check coverage across all products (spot, OTC, staking, NFTs, DeFi).
+
+Recordkeeping & Documentation:-
+
+KYC and transaction data must be retained for at least 5 years.
+
+SAR/CTR filings securely stored with case references.
+
+Access control and backup protocols in place.
+
+Verify regulatory request response timelines.
+
+Employee Training & Awareness:-
+
+Confirm annual AML training program exists.
+
+Ensure role-specific modules (compliance, IT, frontline).
+
+Verify training attendance logs.
+
+Review post-training assessments or quizzes.
+
+Confirm refresher training (annual).
+
+Independent Testing & Audit:-
+
+Ensure annual AML audit schedule exists.
+
+Independent testing conducted by internal or external parties.
+
+Review full program coverage (CDD, Training, Monitoring, Governance).
+
+Verify findings are documented, remediated, and tracked.
+
+Confirm board/senior management oversight.
+
+Ensure crypto-specific risks (DeFi, wallets, NFTs) are tested.
+
+Sanctions & OFAC Screening:-
+
+Confirm automated sanctions screening at onboarding and ongoing.
+
+Verify wallet and IP/geolocation screening.
+
+Review escalation SOP for true matches.
+
+Check screening logs and audit coverage.
+
+Ensure employees are trained on sanctions obligations.
+
+Specialized Modules (as per manual) :-
+
+Product/Service Risk Assessment → Spot, OTC, P2P, staking, NFTs, DeFi, stablecoins.
+
+Wallet Risk Management → Hosted vs. unhosted wallets, mixer detection, withdrawal limits.
+
+Smart Contract/DeFi Audit → Code review, banned protocol list, admin key risk.
+
+Source of Funds & Proof of Origin → Crypto tracing, SoF/SoW documentation.
+
+High-Risk Customer Handling → PEPs, privacy coin users, high-volume traders, cross-border users.
+
+Blockchain Analytics Integration → TRM Labs, Chainalysis, Elliptic, CipherTrace.
+
+Fraud & Cybersecurity → Fake ID detection, mule accounts, phishing, hacking attempts.
+
+Regulatory Reporting → Timely filing, correspondence logs.
+
+Market Abuse Monitoring → Pump-and-dump, spoofing, insider trading.
+
+Travel Rule Compliance → Ensure sender/receiver data is transmitted.
+
+Custody & Treasury Controls → Segregation of funds, liquidity risk.
+
+Exit & Offboarding → Customer withdrawal, account closure controls.
+
+M&A Due Diligence → AML review for acquisitions/leadership changes.
+
+Overall Program Effectiveness → Final assessment of AML/CFT program maturity.
+
+ Audit Methodology:-
+
+Checklists → Section-based (1–43) as per manual.
+
+Risk Scoring → Assign Low/Medium/High risk levels.
+
+Evidence Sampling → Review customer files, transactions, alerts.
+
+Red Flag Analysis → Use auditor notes from manual.
+
+Findings & Recommendations → Document gaps with remediation plan.
+
+ Deliverables:-
+
+Draft Audit Report → Findings, risk scoring, and recommendations.
+
+Exit Meeting → Present key gaps to management.
+
+Final Signed Report → With “Original in Custody (OIC)” certification.
+
+Regulator-Ready Documentation Pack → Organized evidence for submission.
+
+This structured approach ensures a risk-based, regulator-aligned, and evidence-driven audit for crypto exchanges, VASPs, and MSBs.
